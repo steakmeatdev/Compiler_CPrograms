@@ -29,7 +29,7 @@ Ce projet consiste à :
 
 ---
 
-## <span style="color: #FF5722;">🧩 Code Source: mazesolver.c</span>  
+## <span style="color: #FF5722;">🧩 Résolveur de labyrinthe </span>  
 
 ### 📝 **Description**  
 `mazesolver.c` est un programme qui résout un labyrinthe en trouvant un chemin entre deux points **A** et **B**.  
@@ -43,7 +43,7 @@ Ce projet consiste à :
 
 ---
 
-## <span style="color: #9C27B0;">⚙️ Mon propre compilateur</span>  
+## <span style="color: #9C27B0;">⚙️ Compilateur</span>  
 
 ### 📝 **Description**  
 J'ai développé un **mini-compilateur** pour le langage **CodeL** en utilisant **FLEX** et **Bison**.  
