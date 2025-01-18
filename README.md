@@ -1,6 +1,6 @@
 # <span style="color: #4CAF50;">📘 README</span>  
 
-## <span style="color: #2196F3;">💻 Code Source: TP ASD.c</span>  
+## <span style="color: #2196F3;">💻 Indexeur </span>  
 
 ### 📝 **Description**  
 `TP ASD.c` est un programme que j'ai développé à partir de zéro pour un projet académique. L'objectif principal est d'utiliser des **arbres binaires de recherche** pour indexer un fichier texte.  
